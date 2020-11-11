@@ -3,21 +3,21 @@ A random collection of creations, mistakes and borked experiments yielding visua
 
 ### GPU utilization
 
-![](https://github.com/cc-ai/art/blob/main/2020-10-27%20at%2017.09.png?raw=true)
+![](/2020-10-27%20at%2017.09.png)
 
 ### Random Heartbea
 
 A cyclic GIF made of inferences through a GauGAN generator from noise. The central pixel in the noise input is scaled according by a cosine function.
 
-![](https://github.com/cc-ai/art/blob/main/heartbeat_100_50_225401636.gif?raw=true)
+![](/heartbeat_100_50_225401636.gif)
 
 ### Pointillisme
 
 Segmentation models in the begining of their training on real and simulated data
 
-![](https://github.com/cc-ai/art/blob/main/real-pointillism.png?raw=true)
+![](real-pointillism.png)
 
-![](https://github.com/cc-ai/art/blob/main/sim-pointillism.png?raw=true)
+![](sim-pointillism.png)
 
 ### House to Zebra
 
@@ -29,8 +29,8 @@ A new task for image to imag translation models. Actually a borked Masker.
 
 The painter's output when not pasting the original content back onto the mask
 
-![](/03.png)
+![](/003.jpg)
 
-![](/13.png)
+![](/013.jpg)
 
-![](/14.png)
+![](/014.jpg)
