@@ -5,7 +5,7 @@ A random collection of creations, mistakes and borked experiments yielding visua
 
 ![](/2020-10-27%20at%2017.09.png)
 
-### Random Heartbea
+### Random Heartbeat
 
 A cyclic GIF made of inferences through a GauGAN generator from noise. The central pixel in the noise input is scaled according to a cosine function.
 
