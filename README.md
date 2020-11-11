@@ -37,5 +37,5 @@ The painter's output when not pasting the original content back onto the mask
 
 ### Tribute to Jimi
 
-Crazy hazing when not doing RGB to linear RGB to RGB conversion. 
+Crazy hazing when not doing RGB to linearRGB to RGB conversion properly. 
 ![](/PurpleHaze.png)
