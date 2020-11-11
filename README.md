@@ -7,7 +7,7 @@ A random collection of creations, mistakes and borked experiments yielding visua
 
 ### Random Heartbea
 
-A cyclic GIF made of inferences through a GauGAN generator from noise. The central pixel in the noise input is scaled according by a cosine function.
+A cyclic GIF made of inferences through a GauGAN generator from noise. The central pixel in the noise input is scaled according to a cosine function.
 
 ![](/heartbeat_100_50_225401636.gif)
 
