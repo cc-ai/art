@@ -39,3 +39,9 @@ The painter's output when not pasting the original content back onto the mask
 
 Crazy hazing when not doing RGB to linearRGB to RGB conversion properly. 
 ![](/PurpleHaze.png)
+
+### Wildfire logging failure
+
+First attempt to log wildfires gave cool results.
+
+![](/wildfire_failure.jpg)
