@@ -44,4 +44,4 @@ Crazy hazing when not doing RGB to linearRGB to RGB conversion properly.
 
 First attempt to log wildfires gave cool results.
 
-![](/wildfire_failure.jpg)
+![](/wildfire_failure.png)
