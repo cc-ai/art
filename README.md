@@ -37,9 +37,16 @@ The painter's output when not pasting the original content back onto the mask
 
 ### Tribute to Jimi
 
-Crazy hazing when not doing RGB to linearRGB to RGB conversion properly. 
+Crazy hazing when forgetting to convert linear RGB to standard RGB. 
 ![](/PurpleHaze.png)
 
+### Psychedelic collage
+Something went wrong in linear RGB to RGB conversion when trying to smog the image
+![](/futuristicollage.png)
+
+### Bridget Riley would be proud 
+What happened to my depth map ?
+![](/zebradepth.png)
 ### Wildfire logging failure
 
 First attempt to log wildfires gave cool results.
