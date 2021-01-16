@@ -61,4 +61,4 @@ First attempt to log wildfires gave cool results.
 
 ![](/AB_231_wildfire.png)
 
-![](/2021-01-07 at 14.54_wildfire.png)
+![](/2021-01-07%20at%2014.54_wildfire.png)
