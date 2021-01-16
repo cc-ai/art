@@ -56,6 +56,9 @@ First attempt to log wildfires gave cool results.
 ### Wildfire processing bug
 
 ![](/DaEwgFJdh-5zMGQTlRBqCg_wildfire.png)
+
 ![](/2a4PV_wildfire.png)
+
 ![](/AB_231_wildfire.png)
+
 ![](/2021-01-07 at 14.54_wildfire.png)
